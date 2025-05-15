@@ -1,6 +1,6 @@
 # Hi there, I'm Joe Njenga 
 
-![Banner Image](your_banner_image_url_here)
+![image alt](your_banner_image_url_here)
 
 ## About Me 🚀
 
